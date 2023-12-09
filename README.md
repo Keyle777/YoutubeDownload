@@ -1,3 +1,4 @@
+[中文](https://github.com/Keyle777/YoutubeDownload/blob/main/README.md) | [English](https://github.com/Keyle777/YoutubeDownload/blob/main/README-en.md)
 ### YouTube 高质量视频下载工具
 
 这是一个简易的 YouTube 视频下载工具，使用 PyQt5 和 pytube 构建。鉴于Youtube高质量视频的特殊性，其将视频和音频文件分离开来，因此该工具支持下载高质量视频，并在后台自动合并音频和视频流。
