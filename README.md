@@ -33,14 +33,10 @@ python your_downloader_script.py
 
 确保已安装以下 Python 库，遇到问题请查看控制台输出，安装需要的库即可，建议在虚拟环境中：
 
-Python 3.x
-
-PyQt5
-
-pytube
-
-ffmpeg-python
-
+- Python 3.x
+- PyQt5
+- pytube
+- ffmpeg-python
 
 ```bash
 pip install PyQt5 pytube ffmpeg-python
