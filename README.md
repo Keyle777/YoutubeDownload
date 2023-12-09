@@ -13,11 +13,15 @@
 #### 使用方法
 
 安装依赖： 在运行项目之前，请确保安装了以下依赖库。
-```bash pip install PyQt5 pytube ffmpeg-python 
+```bash
+pip install PyQt5 pytube ffmpeg-python
+```
 
 运行程序： 执行以下命令启动应用。
 
+```bash
 python your_downloader_script.py
+```
 
 ##### 安装依赖
 
@@ -27,7 +31,9 @@ PyQt5
 pytube
 ffmpeg-python
 
+```bash
 pip install PyQt5 pytube ffmpeg-python
+```
 
 简易制作 供个人使用 
 
