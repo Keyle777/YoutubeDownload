@@ -1,4 +1,9 @@
+<div align="center">
+  
 [中文](https://github.com/Keyle777/YoutubeDownload/blob/main/README.md) | [English](https://github.com/Keyle777/YoutubeDownload/blob/main/README-en.md)
+
+</div>
+
 ### YouTube High-Quality Video Downloader Tool
 
 This is a simple YouTube video downloader tool built using PyQt5 and pytube. Given the special nature of high-quality YouTube videos, where video and audio files are separated, this tool supports the download of high-quality videos and automatically merges audio and video streams in the background.
@@ -36,6 +41,10 @@ Ensure the following Python libraries are installed. If you encounter any issues
 
 Note: This tool is intended for personal use only.
 
+<div align="center">
+  
 Screenshot:
 
 ![image](https://github.com/Keyle777/YoutubeDownload/assets/90593019/e92ccf49-c602-43bc-a757-e261e078d66b)
+
+</div>
