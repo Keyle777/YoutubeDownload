@@ -36,4 +36,5 @@ Ensure the following Python libraries are installed. If you encounter any issues
 Note: This tool is intended for personal use only.
 
 Screenshot:
+
 ![image](https://github.com/Keyle777/YoutubeDownload/assets/90593019/e92ccf49-c602-43bc-a757-e261e078d66b)
